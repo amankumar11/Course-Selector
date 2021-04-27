@@ -19,23 +19,25 @@ headers={
   "Authorization": "Basic azhGNElyWnVKT2lZSXpaTVhScUUxN3dTS2o1WGZXNllDTDVCcUxhSDpmQndTYkYybktJdE1VcTd1SmhrNjFxMm1Vcko5UjBHSEpqRmFxM0w4YUhkSE9lVUVPRjcyT0RFNzJudWhuZ0dFYlRIMVk0TFlybmw5VXQ0VWRSMHJoVVRnVzg4TTUzVVZLM2RZOXoxN1BEZGE0MlFWWlpib1gxNlVCbTNCeFBvcA==",
   "Content-Type": "application/json;charset=utf-8"
 }
-url="https://www.udemy.com/api-2.0/courses/?page=2&page_size=12&search="
+url="https://www.udemy.com/api-2.0/courses/"
 
 def function(lang):
 
  		
- 	endpoint=url+lang
- 	res=requests.get(url,headers=headers)
+ 	endpoint=url
+ 	params={'page':'2','search':lang}
+ 	res=requests.get(url,headers=headers,params=params)
  	result=res.json()
+ 	# print(result)
  	# print(result['results'][0]['url'])
  	# for a in range(1):
- 	data=result['results'][0]['title'] +'\n' +"https://www.udemy.com"+result['results'][0]['url']+'\n'+result['results'][0]['price']+'\n'
+ 	data=result['results'][1]['title'] +'\n' +"https://www.udemy.com"+result['results'][1]['url']+'\n'+result['results'][1]['price']+'\n'
  	return data
 
- 		# print(result['results'][a]['title'])
- 		# print("https://www.udemy.com"+result['results'][a]['url'])
- 		# print(result['results'][a]['price'])
- 		# print("**********************")
+ 	# print(result['results'][1]['title'])
+ 	# print("https://www.udemy.com"+result['results'][1]['url'])
+ 	# print(result['results'][1]['price'])
+ 	# print("**********************")
 
 
 
