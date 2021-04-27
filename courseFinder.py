@@ -40,7 +40,7 @@ def function(lang):
  	# print("**********************")
 
 
-function("python")
+
 
 
 
