@@ -342,11 +342,17 @@ input[type="search"] {
   }
 
   .cover {
-    padding: 20px;
+    padding: 20px; /*intital 20px*/
   }
 
   #madeby {
     padding: 30px 20px;
+  }
+}
+
+@media all and (max-width:440px){
+  .cover{
+    padding: 10px;
   }
 }
 
