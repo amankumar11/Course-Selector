@@ -3,14 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}"
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/loader.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    
+    
     
 
     <title>Course Selector</title>
   </head>
   <body>
-    
-    <div class="container">
+
+    <div id="content" class="container">
 
         <header>
           <h2>
@@ -58,6 +63,18 @@
         </div>
       
       </div>
+    </div>
 
+    
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+      
+    </div>
+    <script src="/JS Files/loader.js"></script>
+    
+    
   </body>
 </html>
