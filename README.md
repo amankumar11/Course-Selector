@@ -9,11 +9,11 @@ Currently the project is under work and filters only best courses from Udemy in 
 
 <h3>Languages Used: </h3>
 
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="./Media/html5_coloured.png" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="./Media/css3_coloured.png" />
-<img align="left" title="Javascript" alt="Javascript" width="26px" src="./Media/javascript.svg.png" />
-<img align="left" title="Python" alt="Python" height="26px" src="./Media/python.svg" />
-<img align="left" title="Flask" alt="Flask" width="26px" src="./Media/flask.png" />
+<img align="left" title="HTML5" alt="HTML5" width="30px" src="./Media/html5_coloured.png" />
+<img align="left" title="CSS3" alt="CSS3" width="30px" src="./Media/css3_coloured.png" />
+<img align="left" title="Javascript" alt="Javascript" width="30px" src="./Media/javascript.svg" />
+<img align="left" title="Python" alt="Python" height="30px" src="./Media/python.svg" />
+<img align="left" title="Flask" alt="Flask" width="30px" src="./Media/flask.png" />
  
 
 
