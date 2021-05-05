@@ -5,8 +5,7 @@
 Currently the project is under work and filters only best courses from Udemy in future it would be also filtering the best courses from other sites comparing them and hence diplaying the best course.</h2>
 <br>
   <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="500"> 
-
-
+  
 <h3>Languages Used: </h3>
 
 <img align="left" title="HTML5" alt="HTML5" width="30px" src="./Media/html5_coloured.png" />
@@ -15,10 +14,6 @@ Currently the project is under work and filters only best courses from Udemy in 
 <img align="left" title="Python" alt="Python" height="30px" src="./Media/python.svg" />
 <img align="left" title="Flask" alt="Flask" width="30px" src="./Media/flask.png" />
  
-
-
-<br>
-<br>
 <h3 style="left: 50px; position:relative;">Connect with us:</h3>
 <h4 style="left: 50px; position:relative;">Aman Kumar</h4>
 <a href="https://twitter.com/aman_kumar11"><img align="left" title="Twitter - Aman Kumar" alt="Twitter" height="24px" src="./Media/twitter_coloured.png" /></a>
