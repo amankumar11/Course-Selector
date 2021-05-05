@@ -3,7 +3,7 @@
 <h2 align="center">The project helps you in finding the best course available by filtering the courses on the basis of price and customer feedback and helps and hence displays the best course available.
   <br>
 Currently the project is under work and filters only best courses from Udemy in future it would be also filtering the best courses from other sites comparing them and hence diplaying the best course.</h2>
-<br>
+
   <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="500"> 
   
 <h3>Languages Used: </h3>
