@@ -13,7 +13,7 @@ Currently the project is under work and filters only best courses from Udemy in 
 <img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="./Media/bootstrap-stack.png" />
 <img align="left" title="Javascript" alt="Javascript" width="30px" src="./Media/javascript.svg" />
 <img align="left" title="Python" alt="Python" height="30px" src="./Media/python.svg" />
-<img align="left" title="Flask" alt="Flask" width="40px" src="./Media/flask.png" />
+<img align="left" title="Flask" alt="Flask" width="30px" src="./Media/flask.png" />
  <br>
 <h3 style="left: 50px; position:relative;">Connect with us:</h3>
 <h4 style="left: 50px; position:relative;">Aman Kumar</h4>
