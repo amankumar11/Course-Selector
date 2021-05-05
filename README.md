@@ -4,7 +4,7 @@
   <br>
 Currently the project is under work and filters only best courses from Udemy in future it would be also filtering the best courses from other sites comparing them and hence diplaying the best course.</h2>
 
-  <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="500"> 
+  <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="700"> 
   
 <h3>Languages Used: </h3>
 
@@ -18,7 +18,7 @@ Currently the project is under work and filters only best courses from Udemy in 
 <h4 style="left: 50px; position:relative;">Aman Kumar</h4>
 <a href="https://twitter.com/aman_kumar11"><img align="left" title="Twitter - Aman Kumar" alt="Twitter" height="24px" src="./Media/twitter_coloured.png" /></a>
 <a href="https://www.linkedin.com/in/amankumarrr/"><img align="left" title="LinkedIn - Aman Kumar" alt="LinkedIn" height="24px" src="./Media/linkedin_coloured.png" /></a>
-
+<br>
 <h4 style="right: 50px; position:relative;">Akshit Singh</h4>
 <a href="https://www.linkedin.com/in/akshit-singh-865350137/"><img align="left" title="LinkedIn - Akshit Singh" alt="LinkedIn" height="24px" src="./Media/linkedin_coloured.png" /></a>
 
