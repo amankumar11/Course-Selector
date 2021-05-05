@@ -4,7 +4,7 @@
   <br>
 Currently the project is under work and filters only best courses from Udemy. In future it would be also filtering the best courses from other sites comparing them and hence diplaying the best course.</h2>
 
-  <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="700"> 
+  <img align="left" alt="image" src="https://github.com/amankumar11/Course-Selector/blob/main/Media/csdemo.PNG" width="500"> 
   
 <h3>Languages Used: </h3>
 
