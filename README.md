@@ -24,7 +24,7 @@ Currently the project is under work and filters only best courses from Udemy in 
 <a href="https://twitter.com/aman_kumar11"><img align="left" title="Twitter - Aman Kumar" alt="Twitter" height="24px" src="./Media/twitter_coloured.png" /></a>
 <a href="https://www.linkedin.com/in/amankumarrr/"><img align="left" title="LinkedIn - Aman Kumar" alt="LinkedIn" height="24px" src="./Media/linkedin_coloured.png" /></a>
 <br>
-<h4 style="left: 50px; position:relative;">Akshit Singh</h4>
+<h4 style="left: 500px; position:relative;">Akshit Singh</h4>
 <a href="https://www.linkedin.com/in/akshit-singh-865350137/"><img align="left" title="LinkedIn - Akshit Singh" alt="LinkedIn" height="24px" src="./Media/linkedin_coloured.png" /></a>
 
 
