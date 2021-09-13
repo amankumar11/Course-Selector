@@ -1,7 +1,7 @@
 <h1 align="center">Course Selector 💻</h1>
 <h2 align="center">Aman Kumar | Akshit Singh</h2>
 <h2 align="center">https://periwinkle-midnight-arithmetic.glitch.me/</h2>
-<p align="center">The project helps you in finding the best course available by filtering the courses on the basis of price and customer feedback and helps and hence displays the best course available.
+<p align="left">The project helps you in finding the best course available by filtering the courses on the basis of price and customer feedback and helps and hence displays the best course available.
   <br>
 Currently the project is under work and filters only best courses from Udemy. In future it would be also filtering the best courses from other sites comparing them and hence diplaying the best course.</p>
 
